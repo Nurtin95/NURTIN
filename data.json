@@ -1,0 +1,38 @@
+{
+    "c9b20262889448ed2fec30cd553758a48": {
+        "point": {},
+        "saklar": true,
+        "quest": "seorang sahabat?",
+        "asw": [
+            "dapat diajak curhat",
+            "saling berbagi",
+            "bukan pasangan"
+        ],
+        "tmp": [
+            "1. _________",
+            "2. _________",
+            "3. _________"
+        ]
+    },
+    "c4f7f34a54db05da97ceba95ec19d58af": {
+        "point": {},
+        "saklar": false,
+        "quest": "",
+        "asw": [],
+        "tmp": []
+    },
+    "c377ba570b907ce5381a628a86e087b21": {
+        "point": {},
+        "saklar": false,
+        "quest": "",
+        "asw": [],
+        "tmp": []
+    },
+    "c7369da3b42f986104e6a78ba846fe765": {
+        "point": {},
+        "saklar": false,
+        "quest": "",
+        "asw": [],
+        "tmp": []
+    }
+}
